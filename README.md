@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **New JavaScript Frameworks**
 
-- 👯 I’m looking to collaborate on **Full stack and mobile app projects**
+- 👯 I’m looking to collaborate on **Full stack projects**
 
 - 💬 Ask me about **Ruby on Rails, React, Node, Angular, Vue.js, Flutter, Nest.js, React Native, AWS, Heroku, Docker, Devops**
 
